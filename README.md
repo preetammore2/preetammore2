@@ -96,10 +96,3 @@
 
 ###
 
-<h3 align="left">🔥 contributions :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/preetammore2/preetammore2/output/snake.svg" alt="Snake animation" />
-
-###
