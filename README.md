@@ -91,7 +91,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetammore2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Preetam " height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=preetammore2&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=20&order=3" height="150" alt="streak graph"  />
 </div>
 
