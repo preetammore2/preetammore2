@@ -17,7 +17,7 @@
   <a href="https://www.youtube.com/@preetammore2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://discord.gg/NtK5dCea" target="_blank">
+  <a href="https://discord.com/invite/vgBeEQn4YD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
   <a href="https://t.me/preetammore2" target="_blank">
