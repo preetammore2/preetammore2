@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1169664930698510421/1224349935948795945/Programmer-PNG-Photo-Image.png?ex=661d2bbc&is=660ab6bc&hm=7aae7f3fe19b28a2306181a7e195bb14d44df01f74735706e04ef9421c88a754&=&format=webp&quality=lossless&width=1000&height=442"  />
+  <img height="150" src="https://cdn.creazilla.com/cliparts/3169915/programmer-clipart-lg.png"  />
 </div>
 
 ###
