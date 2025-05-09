@@ -222,7 +222,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/preetammore2/preetammore2/output/snake.svg" alt="Snake animation" />
-
-###
